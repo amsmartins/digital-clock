@@ -21,7 +21,6 @@ body{
 div.clock{
 	color: rgb(167, 75, 212);
 	font-size: 100px;
-	/* background:  rgb(240, 237, 242); */
 	border-radius: 10px;
 	box-shadow: 10px 5px 5px rgb(144, 27, 155);
 }
@@ -54,5 +53,4 @@ button {
 footer {
     color: #b22db9;
     text-align: center;
-    /* font-size: 10px; */
 }
